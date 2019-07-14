@@ -1,4 +1,4 @@
-package basic
+package main.basic
 
 fun main() {
     val double: (Int) -> Int = { x -> x * 2 }

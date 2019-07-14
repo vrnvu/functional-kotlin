@@ -1,4 +1,4 @@
-package basic
+package main.basic
 
 /**
  * Partially applying a function means creating a new function by pre-filling some of the arguments to the original function.
